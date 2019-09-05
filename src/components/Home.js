@@ -15,7 +15,8 @@ class Home extends Component {
         <div>
           <button>APPLY</button>
         </div>
-
+        <div className="Frame1"> 
+        </div>
         <div className="titleStyle">
             <h1 className="Cutie">Cutie</h1>
             <h1 className="Hack">Hack</h1>

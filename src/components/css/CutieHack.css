@@ -6,31 +6,31 @@
 .Cutie {
     color: #fff;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 50px;
     border: none;
     background-color:black;
     position: absolute;
     width: 124px;
     height: 35px;
-    left: 46px;
+    left: 5%;
     top: 176px;
 }
 .Hack {
     color: #fff;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 50px;
     border: none;
     background-color:black;
     position: absolute;
     width: 109px;
     height: 35px;
-    left: 647px;
+    left: 85%;
     top: 176px;
 }
 .Description {
     color: #fff;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 40px;
     border: none;
     background-color:black;
     position: absolute;
@@ -43,7 +43,7 @@
 .DescriptionText {
     color: #fff;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 15px;
     border: none;
     background-color:black;
     position: absolute;
@@ -55,23 +55,37 @@
 .About {
     color: #fff;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 40px;
     border: none;
     background-color:black;
     position: absolute;
     width: 219px;
     height: 59px;
-    left: 392px;
+    left: 65%;
     top: 1357px;
 }
 
 .AboutText {
     color: #fff;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 15px;
     border: none;
     background-color:black;
     position: absolute;
     width: 407px;
     height: 138px;
+}
+
+.Frame1 {
+    /* Rectangle 3 */
+
+position: absolute;
+width: 838px;
+height: 570px;
+left: 23%;
+top: 10%;
+align-items: center;
+justify-content: center;
+background: url(../img/Atlantis.jpg), linear-gradient(180deg, #5884F6 0%, rgba(166, 237, 241, 0) 100%);
+
 }
